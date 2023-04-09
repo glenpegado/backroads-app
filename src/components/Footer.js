@@ -1,4 +1,3 @@
-import { socialLinks, pageLinks } from '../data';
 import SocialLink from './Body/links/SocialLink';
 import PageLink from './Body/links/PageLink';
 function Footer() {
